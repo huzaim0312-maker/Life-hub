@@ -1,0 +1,5 @@
+{
+  "name": "LifeHub",
+  "description": "A minimal, mobile-first daily productivity dashboard featuring tasks, notes, and a focus timer.",
+  "requestFramePermissions": []
+}
